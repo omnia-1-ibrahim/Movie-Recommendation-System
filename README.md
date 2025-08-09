@@ -1,4 +1,5 @@
-**🛍️ Movie Recommendation System (MovieLens 100K)**
+# ***🛍️ Movie Recommendation System (MovieLens 100K)***
+
 
 This repository contains a complete end-to-end Movie Recommendation System implemented for the Elevvo Internship — Task 5.
 
